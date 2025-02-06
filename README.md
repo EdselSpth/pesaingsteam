@@ -5,7 +5,7 @@
 ### Prodi : S1 Rekayasa Perangkat Lunak 2023
 
 # Class Diagram
-![alt text]([?raw=true](https://github.com/EdselSpth/pesaingsteam/tree/main/Image))
+![alt text]((https://github.com/EdselSpth/pesaingsteam/tree/main/Image))
 
 # Tata Cara Running
 1. Lakukan download terhadap file zip
