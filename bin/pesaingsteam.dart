@@ -27,6 +27,7 @@ void main() {
   print('-' * 205);
   print('Fried');
   print('Shiota Company');
+  print('Edsel Septa Haryanto');
   while (pilihan != 0) {
     try {
       print('-' * 205);
